@@ -7,4 +7,6 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'angular-mm-test';
+  name = 'Matty Humble!';
+  humble = 'Matty Humble is the best!'
 }
